@@ -45,7 +45,7 @@ export default function Home() {
 
       {/* Hero Section */}
       <div className="relative bg-gray-900 text-white overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-indigo-800 via-purple-700 to-pink-600 opacity-80" />
+        <div className="absolute inset-0 bg-gradient-to-br from-[#1a1143] via-[#301b5c] to-[#51238e]" />
         <div className="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32 flex flex-col-reverse lg:flex-row items-center gap-12">
           <div className="w-full lg:w-1/2 space-y-6">
             <h1 className="text-4xl sm:text-5xl font-bold leading-tight">
@@ -64,13 +64,18 @@ export default function Home() {
               </button>
             </div>
           </div>
-          <div className="w-full lg:w-1/2 flex justify-center items-center">
-            <img
-              src="/assets/erasebg-transformed.png"
-              alt="Futuristic purple ring"
-              className="w-full max-w-md shadow-2xl rounded-lg transform hover:scale-105 transition"
-            />
-          </div>
+         <div className="w-full lg:w-1/2 flex justify-center items-center">
+<div className="w-full lg:w-1/2 flex justify-center items-center">
+  <img
+    src="/assets/test.gif"
+    alt="AI animation"
+    className="w-full h-[470px] object-cover"
+  />
+</div>
+
+
+</div>
+
         </div>
       </div>
 
