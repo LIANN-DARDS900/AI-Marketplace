@@ -20,3 +20,10 @@
 
 ## 📝 Notes
 - wash afrida zwin hani shof hada todolist wli n3mroh b les taches li khashom ydaro, daba nta fahem mzyan 3mr w ana anfhmk w ankmel fhemti, mohim les taches li khashom ydaro ndirohom hna bash ntfahmo blama ndwiw anwli n9ra gha l commits w todolist wnfhm w nkmel
+
+
+ NB: S7aybi, Nbdaw from scratch 7it 9adit a frontend ez pezzy,
+ to test the front end , dir code = download zip , extract dkhl lih b cmd wla ma3rt 
+ dir npm install
+ npm run dev
+ ayt7l f wa7d port  flocalhost odkhl drb tala 3la frontend page product page markeplace total
